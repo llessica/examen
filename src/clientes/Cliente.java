@@ -8,7 +8,8 @@ public class Cliente {
     private String Genero;
     private String Email;
     
-    //FEAAAA
+    //LISTAS
+  
 
     public Cliente (String Nombre, String Apellido , String Telefono,
              String Email , String Genero) {
